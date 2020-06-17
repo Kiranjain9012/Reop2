@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is A831-6882
+
+ Directory of C:\Users\kiran\Desktop\Myproject
+
+17/06/2020  08:59 PM    <DIR>          .
+17/06/2020  08:59 PM    <DIR>          ..
+17/06/2020  08:40 PM               399 index.html
+17/06/2020  08:59 PM                 0 newfile.txt
+17/06/2020  08:39 PM                15 test.txt
+               3 File(s)            414 bytes
+               2 Dir(s)  820,309,991,424 bytes free
